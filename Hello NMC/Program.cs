@@ -10,6 +10,8 @@ namespace Hello_NMC
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello NMC");
+            Console.ReadKey();
         }
     }
 }
